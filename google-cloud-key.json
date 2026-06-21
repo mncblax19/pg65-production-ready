@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ihamrick-media",
+  "private_key_id": "25e5309e4a6e18d566ad41a9a93c26d66306a17b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrdPNvwPd4IpC7\nFEUFbiuz49GH6JTX1bpoa/033SoakfRXL8F1i9T8dibF8QUcuHNgC17G8MESAHM2\nSraX51YAteM8NziZsd1KPvibLb1E5G0gAvqMc8BHBRF2WNLyaA82bpvKhGX/Ryd9\nz266trMSbMrTcluYXySxGxpqprX8f3EIAHYqfiQcTles/jfSWTM+eUvMr4jRuDOw\nJIC2b3yE9yk1Khrz0Kwj/ghUjcU8RH5s1SGlBXbycaSgA16DbpcWpj1XUcc+/6ua\nw5jmwal90UlwhiaWRWOZJAe0y8UDheiqYlJECu2xQT2ieRaCme9RrJZZYVJEvcbb\nXYF9zBE/AgMBAAECggEADvE8y/b9ui8M/PjZwQzmayGGH7mRyzOZsMMEiOtR4Ynp\nyPVk/0kF8VCctXB5WRTsHSkwg9b0hIycfdVKD3f+Q0aWvKc1XBOnrPJK+T8luQzN\nQ9ZunnHyBl53NKCuFaki9kPyeNZMC1DYrLq4tDX66jaoAIB9YgycpoCtrzDDOHOA\nLS8RZ7Ulm7Zz1UeXBZ+8qIUUB97YsDms2zqKafVpFmeEveFUqepTaMJL+MnY2hFr\nLo2gIc8BD32zs2DAPBCefrkydDi+B2IqvwogGcGRvc5YJlSah+ucxU5wn/0/Axkl\nDYEtI5irrSr+WLBub2xJwOrwY9bEOe0i3hrOhWoiyQKBgQDlDGIZ+RrAk4sGQwzN\nxkxeNqybIC7iRqkuxwy7ZLjQsvb7Goic4gOF/L78pPAxYeMV9mDcDC8MCSV3gJ8t\nY7rwF9Trg2X2u/4AXOSYhx+DqzRuOipKQGM5vGh3ZhUj6uQBuVf1IAHD5y6i8K9V\np6daPXctP5yajfEEQU5B4+075wKBgQC/ob1lMJRAvIHPD74UZ8Q1Rh0e5KAANMKj\nm0lnkwbgt+jdvjR2GkXt66V5w7+ohQzLrVjgncjGdc1jmZmuhW53lLc5seR/T7L6\ndH4F6hSZtxaYLGWjV+qal8PKpXMPbqN20CGHwQ4mDdAzNw2s3wntNj4Apz3Yg9fz\n0+qwyemU6QKBgQDNVOeQ/yaDYwErkOomglEt2Het7RD6mnvKSnjYeTfRJ86PVr8H\nXPnpoKWaGUaWDnmj06YLPgTjFkP3OF/6McCAweyHYNkEco0GyD/JmMCgqdcrxYrp\n24TYWlWQS/xBoa3a+cunHJVYiKPfQEL+V3iIRjfTYYZDa2GX/e9o1Cp1GwKBgQCH\nHQLs1dOx0Te1RuQ+futYpJbjsU8e1hRmRpb68C9pQkJuFi3nF582oW+K6vm3WBgt\ng4um05k8VNL75tD0vB+nMLP/ee4h1Y/cB0bT5LehqfXEVYlUIijH1zm1J/J4bwnS\nO+1oSjYvno2tjqOVv6zAE/6jd0ej4VHiGQjgnXyUAQKBgC20lOzkl8cw8pQIkHJ8\nEjIqjBJM3UNuY3Kl7+atKnprBllxo8wYBgQpH5MdEiB8oiABJABQii5C5eVS2wzu\nSK7mBM8+mFbKpsQwiciK01YDPSecy99Q1UntBsO/vb3ePy2Yrp2K9LiADtRsMUCa\nz0bYV/BLS7qtQEV3cG1c/huF\n-----END PRIVATE KEY-----\n",
+  "client_email": "ihamrick-media-uploader@ihamrick-media.iam.gserviceaccount.com",
+  "client_id": "113047778239485193630",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ihamrick-media-uploader%40ihamrick-media.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
